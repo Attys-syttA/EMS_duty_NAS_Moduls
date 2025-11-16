@@ -1,0 +1,171 @@
+EMS_Duty Bot — Felhasználói kézikönyv
+Fájl: EMS_Duty_NAS_251114.py
+Készült: 2025-11-15
+
+1. Rövid összefoglaló
+A bot célja: a Discord "duty-log" csatornából kigyűjteni a szolgálatba lépéseket és a leadásokat, normálizálni és menteni őket a `duty_log.json`-ba, valamint admin/vezetői parancsokkal jelentéseket, heti toplistát és exportokat készíteni. NAS-környezetre (Synology) optimalizált, Watchdog-folyamattal és Log Collectorral együtt működik.
+
+2. Követelmények és környezet
+- Python 3.8 (NAS Synology beépített: /bin/python3)
+- Discord bot token (DISCORD_TOKEN) — NE osszd meg!
+- `.env` fájl: a bot konfigurációját tartalmazza (csatorna ID-k, TEST_MODE, időzítések, admin ID, stb.)
+
+Fontos `.env` kulcsok (lényeges, általában szükséges értékek):
+- DISCORD_TOKEN: Discord bot token
+- ADMIN_CHANNEL_ID: admin csatorna azonosító
+- DUTY_LOG_CHANNEL_ID: duty-log csatorna azonosító
+- WEEKLY_DUTY_CHANNEL_ID: heti toplista csatorna id
+- DM/ADMIN beállítások: WATCHDOG_DM_USER_ID, ADMIN_CHANNEL_ID
+- TEST_MODE / TEST_MODE_FILE / TEST_MODE_RECORD_LIMIT — teszt mód paraméterei
+- VEZETOSSEG / DEDIKALT_RANGOK — rangprioritás a riportokhoz
+- MAX_ON_DUTY_HOURS — figyelmeztetés szolgálati időnél
+
+3. Indítás és futtatás
+- Watchdog indítása (ajánlott): `run_watchdog.sh` (Synology Task Scheduler vagy manuálisan). A watchdog figyeli a botfájlt és a `.env`-t, újraindítja a botot, és elindítja a `log_collector_NAS.py`-t.
+- Kézi indítás: `python EMS_Duty_NAS_251114.py` (figyelem: győződj meg, hogy a `DISCORD_TOKEN` be van állítva).
+
+4. Fájlok és logok
+- duty_log.json: a bot által felépített adatbázis
+- hamis_duty_log.json: teszt adatok teszt módhoz
+- discord_user_ids.json: név → Discord ID térkép; a mentionokhoz szükséges
+- char_to_discord_name.json: FiveM név → Discord név összerendelés
+a logok:
+- logs/runtime.log — bot runtime események
+- logs/bot.log — discord.py és bot események
+- logs/watchdog.log — watchdog események
+
+5. Parancsok — használat és példák
+(Az összes parancs elérhető a `!sugo` segítségével is.)
+
+- !ping
+  • Cél: a bot elérhetőségének ellenőrzése; latency megmutatása.
+  • Példa: `!ping`
+  • Megjegyzés: Spam-védelem; ha túl gyorsan pingelik a botot, vicces válasz érkezik.
+
+- !sniff_duty [limit] [show|silent|raw|all]
+  • Cél: duty-log csatorna üzeneteinek beolvasása és mentése teszt/diagnosztikai célból.
+  • Példa: `!sniff_duty 50 show`
+  • Jogosultság: admin
+
+- !channel_info <channel_id>
+  • Cél: csatorna metaadatának megjelenítése (típus, kategória stb.).
+  • Példa: `!channel_info 1349829361649324173`
+  • Jogosultság: admin
+
+- !szolgalat <kezdet_dátum> <kezdet_idő> <vég_dátum> <vég_idő>
+  • Cél: összegzi adott intervallum szolgálati idejét személyenként.
+  • Példa: `!szolgalat 2025-10-01 00:00 2025-10-01 24:00`
+  • Jogosultság: admin
+
+- !szemely <Név>
+  • Cél: adott személy minden szolgálati bejegyzése.
+  • Példa: `!szemely Dr. Water White`
+  • Jogosultság: admin
+
+- !szemely_napi <Név>
+  • Cél: napi bontású összegzés egy személyről.
+  • Példa: `!szemely_napi Dr. Rick Deckard`
+  • Jogosultság: admin
+
+- !napi <YYYY-MM-DD>
+  • Cél: lekérdezi az adott napon lezárult szolgálatokat.
+  • Példa: `!napi 2025-10-01`
+  • Jogosultság: admin
+
+- !frissites [teljes|full]
+  • Cél: a duty-log frissítése a Discord channel történetéből.
+  • Példa: `!frissites` (normál), `!frissites teljes` (teljes rebuild és dedupe)
+  • Megjegyzés: a teljes rebuild törli a duty_log.json-t és újra beolvassa a channelt — ez adatvesztés veszélye nélkül van megírva, de óvatosan használd.
+  • Jogosultság: admin
+
+- !heti_top [offset]
+  • Cél: heti toplista előnézet; offset: 0=aktuális hét, -1=előző hét.
+  • Példa: `!heti_top -1`
+  • Jogosultság: admin
+
+- !mehet
+  • Cél: publikálja az utolsó `!heti_top` által generált toplistát a `WEEKLY_DUTY_CHANNEL_ID` csatornára.
+  • Megkötések: csak az a személy publikálhatja, aki generálta; max 24 óra; offset=0.
+  • Jogosultság: admin
+
+- !jelen
+  • Cél: megmutatja, kik vannak közvetlenül szolgálatban (az elmúlt 48 óra alapján frissít).
+  • Példa: `!jelen`
+  • Jogosultság: admin
+
+- !teszt_jelen
+  • Cél: `!jelen` tesztadattal; csak ha `TEST_MODE=1`.
+  • Példa: `!teszt_jelen`
+  • Jogosultság: admin
+
+- !restart
+  • Cél: manuális újraindítás: a watchdog a restart_reason.txt miatt érti a kézi újraindítás módját.
+  • Példa: `!restart`
+  • Jogosultság: admin
+
+- !betoppano_export [YYYY-MM-DD] [YYYY-MM-DD]
+  • Cél: export a #betoppanó csatornáról (teljes, napi vagy intervallum).
+  • Példa: `!betoppano_export 2025-01-01 2025-01-07`
+  • Jogosultság: admin
+
+- !diagnosztika
+  • Cél: ellenőrzi a legfontosabb JSON fájlok meglétét és formátumát.
+  • Példa: `!diagnosztika`
+  • Jogosultság: admin
+
+- !pair_char "FiveM név" "Discord név"
+  • Cél: összekapcsol egy FiveM karakternevet egy Discord névvel a `char_to_discord_name.json`-ban.
+  • Példa: `!pair_char "Dr. Water White" "Gery"`
+  • Jogosultság: admin
+
+- !char_lista
+  • Cél: megjeleníti a jelenlegi FiveM→Discord párosításokat.
+  • Példa: `!char_lista`
+  • Jogosultság: admin
+
+- !sugo [parancs]
+  • Cél: súgó — listázza a parancsokat vagy adott parancs részleteit.
+  • Példa: `!sugo`, `!sugo frissites`
+  • Megjegyzés: minden parancs help_meta dekorátorral van ellátva; a `!sugo` ebből generálja a listát.
+
+6. Tippek: gyakori felhasználói forgatókönyvek
+- Újraépítés (hiba esetén): `!frissites teljes` → várd meg, míg a bot befejezi; ellenőrizd a `logs/runtime.log`-ot.
+- Heti toplista közzététele: `!heti_top` → ellenőrizd admin csatornán → `!mehet` a publikáláshoz.
+- Ha nem látod a duty-log bejegyzéseket: futtasd `!frissites` vagy `!sniff_duty 50 raw` és ellenőrizd a `raw_sniff.log`-ot.
+- Tesztelés: állítsd `TEST_MODE=1` az `.env`-ben és használd `!teszt_jelen`-t.
+
+7. Hibakeresés és logok
+- A watchdog újraindítási okait a `logs/restart_reason.txt`-ben találod.
+- Ha `collector_state.json` TypeError-t mutat, ellenőrizd a `logs/error_alerts.log` (ha van) és `logs/bot.log` környező részeit.
+- Ha a bot összeomlik: watchdog automatikusan újraindítja (exit code 41 miatt kézi újraindítás). Ellenőrizd `logs/watchdog.log`-ot.
+
+8. Biztonsági figyelmeztetések
+- A `DISCORD_TOKEN`-t soha ne tedd publikus repo-ba. Ha már kikerült, forgasd le (Regenerate) a tokent a Discord fejlesztői konzoljában.
+- A `.env` fájlt tedd be `.gitignore`-ba, és ne commitáld.
+
+9. GYIK / További segédletek
+- "Hogyan tudom eltávolítani a rossz exportokat?" – manuálisan töröld az `exports/` mappából; a bot csak olvas.
+- "Miért nem jelennek meg a mention-ök?" – győződj meg róla, hogy a `discord_user_ids.json` naprakész; használj `!pair_char`-t.
+
+10. Példák PowerShell parancsokra (hibakereséshez)
+```powershell
+# A bot futtatása lokálisan:
+python .\EMS_Duty_NAS_251114.py
+
+# Watchdog futtatása background (NAS-en):
+/bin/bash ./run_watchdog.sh
+
+# runtime.log utolsó sorainak megtekintése:
+Get-Content .\logs\runtime.log -Tail 50
+
+# Frissítés tesztelése parancsból (Discord parancs):
+# -> a bot parancs ablakából futtasd: !frissites
+```
+
+11. Hova mentettem ezt a kézikönyvet?
+- `d:\EMS_Duty_NAS\elemzés\EMS_Duty_bot_manual.txt`
+
+12. Javasolt következő lépések
+- Kérlek jelöld meg, ha szeretnéd, hogy készítsek egy rövid `README.md`-et a projekthez, vagy implementáljam a fenti kézikönyvben ajánlott biztonsági lépéseket (pl. .gitignore frissítés, token rotálás comment).
+
+Készen állok a további részletekhez, vagy hogy a kézikönyv további kiterjesztését elkészítsem (pl. parancs-specifikus tesztesetek, unit tesztek).

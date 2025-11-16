@@ -1,0 +1,242 @@
+{
+  "DR_HAJAS_RICSI": {
+    "PRTNAME": "Dr. Hajas Ricsi",
+    "DCUSER": "_hajas",
+    "DCID": "846814041648136213",
+    "DCNICK": "Doky",
+    "GLOBALNAME": "Doky",
+    "KEY": "dr. hajas ricsi",
+    "FIVEM": "ricsihajas3",
+    "ROLE": "Mentő - Igazgató"
+  },
+  "DR_RICK_DECKARD": {
+    "PRTNAME": "Dr. Rick Deckard",
+    "DCUSER": "r1ck_d3ckard",
+    "DCID": "315862356175486997",
+    "DCNICK": "Dr. Rick Deckard",
+    "GLOBALNAME": "Attys Biro",
+    "KEY": "dr. rick deckard",
+    "FIVEM": "Attys",
+    "ROLE": "Mentő - Igazgató-helyettes"
+  },
+  "DR_RADULY_ZALAN": {
+    "PRTNAME": "Dr. Ráduly Zalán",
+    "DCUSER": "RadulyZalan",
+    "DCID": "1216314902038315008",
+    "DCNICK": "Ráduly",
+    "GLOBALNAME": "Dr.Ráduly Zalán | Gazdasági-IG",
+    "KEY": "dr. ráduly zalán",
+    "FIVEM": "Ráduly",
+    "ROLE": "Mentő - Igazgató-helyettes"
+  },
+  "DR_HERO_NAGATA": {
+    "PRTNAME": "Dr. Hero Nagata",
+    "DCUSER": "_kolbii_",
+    "DCID": "606799853728563217",
+    "DCNICK": "Hero",
+    "GLOBALNAME": "00__Zalan__00",
+    "KEY": "dr. hero nagata",
+    "FIVEM": "00__Zalan__00",
+    "ROLE": "Mentő - Osztályvezető"
+  },
+  "DR_PHILADELPHIA_DE_BLANCA": {
+    "PRTNAME": "Dr. Philadelphia de Blanca",
+    "DCUSER": "x_ray2788",
+    "DCID": "1087250210561998908",
+    "DCNICK": "Philly",
+    "GLOBALNAME": "X-Rayᵀᴹ",
+    "KEY": "dr. philadelphia de blanca",
+    "FIVEM": "X-Rayᵀᴹ",
+    "ROLE": "Mentő - Orvos\"  "
+  },
+  "DR_WATER_WHITE": {
+    "PRTNAME": "Dr. Water White",
+    "DCUSER": "geres_",
+    "DCID": "774663427117154335",
+    "DCNICK": "Geres",
+    "GLOBALNAME": "Geres.",
+    "KEY": "dr. water white",
+    "FIVEM": "Geres.",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DR_MATHEW_CONNOR_W_JR": {
+    "PRTNAME": "Dr. Mathew Connor W. Jr.",
+    "DCUSER": "drsonx",
+    "DCID": "401050796789071882",
+    "DCNICK": "SonX",
+    "GLOBALNAME": "DrSonX.",
+    "KEY": "dr. mathew connor w. jr.",
+    "FIVEM": "DrSonX",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DR_CORMAC_MURPHY": {
+    "PRTNAME": "Dr. Cormac Murphy",
+    "DCUSER": "dilo_hun",
+    "DCID": "342384748481609730",
+    "DCNICK": "dilo HUN",
+    "GLOBALNAME": "dilo HUN",
+    "KEY": "dr. cormac murhpy",
+    "FIVEM": "dilo HUN",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DR_HANS_HEINKEL": {
+    "PRTNAME": "Dr. Hans Heinkel Hesserschmit",
+    "DCUSER": "beleczkibarnus",
+    "DCID": "932232731583197184",
+    "DCNICK": "Mr. Pöcsköszörű🍺",
+    "GLOBALNAME": "Mr. Pöcsköszörű",
+    "KEY": "dr. hans heinkel hesserschmit",
+    "FIVEM": "Mr. Pöcsköszörű🍺 | Hans Heinkel",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DORKA_GREY": {
+    "PRTNAME": "Dorka Grey",
+    "DCUSER": "dorkaa0724",
+    "DCID": "511597270588850196",
+    "DCNICK": "Dorkaa",
+    "GLOBALNAME": "Dorkaa",
+    "KEY": "dorka grey",
+    "FIVEM": "Dorkaa",
+    "ROLE": "Mentő - Gyakornok"
+  },
+  "WHITE_ELISABETH": {
+    "PRTNAME": "White Elisabeth",
+    "DCUSER": "_alkoholistakifli_",
+    "DCID": "1016068013792952361",
+    "DCNICK": "szasza",
+    "GLOBALNAME": "szasza",
+    "KEY": "white elizabeth",
+    "FIVEM": "szasza",
+    "ROLE": "Mentő - Ápoló"
+  },
+  "SCHWARZ_THOMAS": {
+    "PRTNAME": "Schwarz Thomas",
+    "DCUSER": "hunzoli9430",
+    "DCID": "504234503666008105",
+    "DCNICK": "HunZoli🚛💙",
+    "GLOBALNAME": "HunZoli",
+    "KEY": "scwarz thomas",
+    "FIVEM": "Schwarz Thomas",
+    "ROLE": "Mentő - Gyakornok"
+  },
+  "THOMAS_BROOKS": {
+    "PRTNAME": "Thomas Brooks",
+    "DCUSER": "saca08",
+    "DCID": "661675517744906241",
+    "DCNICK": "Saca",
+    "GLOBALNAME": "Saca",
+    "KEY": "thomas brooks",
+    "FIVEM": "Thomas Brooks",
+    "ROLE": "Mentő - Ápoló"
+  },
+  "LAKATOS_LASZLO": {
+    "PRTNAME": "Lakatos László",
+    "DCUSER": "markotacsko",
+    "DCID": "872043745309257729",
+    "DCNICK": "markotacsko",
+    "GLOBALNAME": "markotacsko",
+    "KEY": "laszlo lakatos",
+    "FIVEM": "markotacsko",
+    "ROLE": "Mentő - Mentőtiszt"
+  },
+  "LORETTA_WILSON": {
+    "PRTNAME": "Loretta Wilson",
+    "DCUSER": "patty0352",
+    "DCID": "859075871712215061",
+    "DCNICK": "Patty",
+    "GLOBALNAME": "Patty",
+    "KEY": "loretta wilson",
+    "FIVEM": "Patty",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DR_EDWARD_MASON": {
+    "PRTNAME": "Dr. Edward Mason",
+    "DCUSER": "matexp125",
+    "DCID": "653198176827867138",
+    "DCNICK": "Matexp125",
+    "KEY": "dr. edward mason",
+    "GLOBALNAME": "matexp125",
+    "FIVEM": "Dr. Edward Mason - Matexp125",
+    "ROLE": "Mentő - Orvos"
+  },
+  "DR_BRICE_PERSON": {
+    "PRTNAME": "Dr. Bryce Person",
+    "DCUSER": "liffikemadrfakr",
+    "DCID": "559371490269724698",
+    "DCNICK": ".liffikemadrfakr",
+    "GLOBALNAME": "liffikemadrfakr",
+    "KEY": "dr. bryce person",
+    "FIVEM": ".liffikemadrfakr",
+    "ROLE": "Mentő - Rezidens"
+  },
+  "LUCIAN_RIVER": {
+    "PRTNAME": "Lucian River",
+    "DCUSER": "atsh_0804",
+    "DCID": "416972289310064650",
+    "DCNICK": "At!sH",
+    "GLOBALNAME": "At!sH",
+    "KEY": "Lucian River | AtisHr",
+    "FIVEM": "At!sH",
+    "ROLE": "Mentő - Gyakornok"
+  },
+  "STEIGERWALD_PETER": {
+    "PRTNAME": "Steigerwald Péter",
+    "DCUSER": "_fall3nang3l_",
+    "DCID": "521296115291914280",
+    "DCNICK": "𓆩†𓆪𝔽𝔸𝕃𝕃𝔼ℕ𓆩†𓆪",
+    "GLOBALNAME": "𓆩†𓆪𝔽𝔸𝕃𝕃𝔼ℕ𓆩†𓆪",
+    "KEY": "peter steigerwald",
+    "FIVEM": "𓆩†𓆪𝔽𝔸𝕃𝕃𝔼ℕ𓆩†𓆪",
+    "ROLE": "Mentő - Ápoló"
+  },
+  "BRUNO_VEX": {
+    "PRTNAME": "Bruno Vex",
+    "DCUSER": "_andrisss_",
+    "DCID": "990991982434332773",
+    "DCNICK": "_Andrisss_",
+    "GLOBALNAME": "_Andrisss_",
+    "KEY": "bruno vex",
+    "FIVEM": "_Andrisss_",
+    "ROLE": "Mentő - Gyakornok"
+  },
+  "DR_MIYAGI_DIMITRIJ": {
+    "PRTNAME": "Dr. Myagi Dimitrij",
+    "DCUSER": "adjudant.",
+    "DCID": "711201606561038479",
+    "DCNICK": "Myagi Dimitrij",
+    "GLOBALNAME": "Myagi Dimitrij",
+    "KEY": "dr. myagi dimitrij",
+    "FIVEM": "Myagi Dimitrij",
+    "ROLE": "Mentő - Rezidens"
+  },
+  "ALLISON_ARGENT": {
+    "PRTNAME": "Allison Argent",
+    "DCUSER": "franci_manci",
+    "DCID": "547488933382979604",
+    "DCNICK": "_𝔻𝕫𝕤𝕒𝕕𝕣𝕚_",
+    "GLOBALNAME": "_𝔻𝕫𝕤𝕒𝕕𝕣𝕚_",
+    "KEY": "allison argent",
+    "FIVEM": "_𝔻𝕫𝕤𝕒𝕕𝕣𝕚_",
+    "ROLE": "Mentő - Szakápoló"
+  },
+  "OROSZ_GYORGY": {
+    "PRTNAME": "Orosz György",
+    "DCUSER": "feketeistvan",
+    "DCID": "743141738591551628",
+    "DCNICK": "Pityu",
+    "GLOBALNAME": "Pityu",
+    "KEY": "gyorgy orosz",
+    "FIVEM": "Pityu",
+    "ROLE": "Mentő - Orvos"
+  },
+  "JOHN SMITH": {
+    "PRTNAME": "John Smith",
+    "DCUSER": "doctorwho2888",
+    "DCID": "1396062161490411631",
+    "DCNICK": "John Smith",
+    "GLOBALNAME": "DoctorWho7556",
+    "KEY": "john smith",
+    "FIVEM": "Doctor Who",
+    "ROLE": "Mentő - Gyakornok"
+  }
+}

@@ -1,0 +1,56 @@
+
+==============================
+ID: 1434288911013904534
+Timestamp: 2025-11-01 21:12:04.185000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 60 perc
+
+==============================
+ID: 1434288277162168373
+Timestamp: 2025-11-01 21:09:33.063000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 76 perc
+
+==============================
+ID: 1434288001013383259
+Timestamp: 2025-11-01 21:08:27.224000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1434287613669539900
+Timestamp: 2025-11-01 21:06:54.874000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1434283211629789275
+Timestamp: 2025-11-01 20:49:25.346000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500

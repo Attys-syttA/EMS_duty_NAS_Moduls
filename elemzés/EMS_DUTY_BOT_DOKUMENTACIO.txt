@@ -1,0 +1,393 @@
+EMS DUTY BOT – TELJES MŰKÖDÉSI DOKUMENTÁCIÓ
+Verzió: EMS_Duty_NAS_251111.py
+Készült: 2025-11-13
+
+============================================================
+1. BEVEZETÉS
+============================================================
+Az EMS Duty Bot a NW Origins FiveM (GTA V) szerver EMS frakciójának hivatalos szolgálati időnyilvántartó rendszere. 
+A bot feladata a Discord duty-log csatornában megjelenő szolgálati be- és kilépések feldolgozása, azok egységes adatbázisba rendezése, 
+a napi és heti összesítések elkészítése, a szolgálatban lévők meghatározása, valamint a vezetőség számára az adminisztratív feladatok támogatása.
+
+A rendszer működésének alapelvei:
+- Teljesen automatikus adatgyűjtés és feldolgozás.
+- 24/7 üzemmód, NAS környezetre optimalizálva.
+- Stabilitás, hibamentes működés, watchdog általi felügyelettel.
+- Következetes JSON adatmodell és könnyen átlátható szerkezet.
+- Teszt mód a veszélytelen fejlesztéshez.
+- A frakciószabályzatnak megfelelő heti toplista számítás.
+
+A bot minden komponense a NAS által biztosított stabil Python környezetben fut, amely a Synology DSM rendszer szerves része.
+
+============================================================
+2. A BOT FELÉPÍTÉSE ÉS FŐ KOMPONENSEI
+============================================================
+A bot fő futtatóállománya:
+    EMS_Duty_NAS_251111.py
+
+A bot három nagy alrendszerből áll:
+
+1) Rendszerinicializálás:
+   - ENV változók betöltése.
+   - Logger beállítása (runtime.log).
+   - Fájlellenőrzés, elérési utak összeállítása.
+   - Hotloader előkészítése.
+   - Discord kliens konfigurálása megfelelő intents-ekkel.
+
+2) Parancsszótár (HELP_CMDS):
+   A bot minden parancsának dokumentációja egy Python listában szerepel.
+   A !sugo és !sugo <parancs> ez alapján dolgozik.
+
+3) Funkcionális modulok:
+   - duty-log feldolgozás
+   - frissítés, jelen, napi, szolgalat, szemely, szemely_napi
+   - heti toplista összesítés és prémiumlogika
+   - karakter–Discord névpárosítás
+   - csatorna- és üzenet-export funkciók
+   - diagnosztikai parancsok
+   - teszt mód logikája
+
+A kód modulárisan épül fel, de a NAS-futtatás miatt egyetlen állományba integrált formában működik.
+
+============================================================
+3. NAS FUTTATÁS ÉS KÖRNYEZETI KÖVETELMÉNYEK
+============================================================
+A bot a Synology NAS saját, beépített Python 3.8 interpreterével fut:
+    /bin/python3 EMS_Duty_NAS_251111.py
+
+Ez a környezet stabilabb, mint a felhasználói telepítésű Pythonok, mert:
+- része a DSM rendszernek,
+- nincs kitéve frissítési ütközéseknek,
+- kompatibilis a NAS fájlrendszerével és jogosultságaival.
+
+A bot indulása:
+- DSM Task Scheduler: Rendszerindítás → run_watchdog.sh
+- A watchdog automatikusan elindítja a botot.
+
+Futtatási sajátosságok:
+- SSH alatt futtatható, de bezárása esetén a watchdog újraindítja.
+- A bot stdout-ja nem kerül elvesztésre; a watchdog nem csatolja újra a konzolra.
+
+============================================================
+4. WATCHDOG MŰKÖDÉSE
+============================================================
+A watchdog egy külön folyamat, amely a bot stabil működését felügyeli.
+
+Fő funkciói:
+- A bot folyamatos figyelése.
+- Ha a bot összeomlik: automatikus újraindítás.
+- Ha a botfájl módosul: újraindítás.
+- Ha az .env módosul: újraindítás.
+- !restart parancs esetén jelzés alapján újraindítás.
+- Restart okának naplózása: restart_reason.txt
+
+CHECK_INTERVAL:
+A watchdog 10 másodpercenként ellenőrzi a következőket:
+- fut-e a bot folyamata,
+- változott-e a fájl,
+- történt-e manuális restart.
+
+Ez a 10 mp-es érték stabil működést biztosít túlterhelés nélkül.
+
+Restart okok:
+- fájlcserés frissítés,
+- ENV módosulás,
+- bot crash (exitcode != 0),
+- kézi restart (!restart),
+- NAS újraindítása.
+
+============================================================
+5. HOTLOADER
+============================================================
+A hotloader figyeli az időbélyegeket minden futtatási ciklus elején.
+Ha a botfájl vagy a .env megváltozik, a watchdog azonnal újraindítja a botot.
+
+Figyelt fájlok:
+- EMS_Duty_NAS_251111.py
+- .env
+- core_utils.py (ha létezik)
+
+Nem figyelt fájl:
+- restart_reason.txt → nem triggerel restartot.
+
+A hotloader nem elemzi a JSON adatbázisokat, hogy elkerülje a felesleges restartokat.
+
+============================================================
+6. FÁJLRENDSZER ÉS MAPPÁK SZEREPE
+============================================================
+A bot könyvtárának szerkezete:
+
+EMS_Duty/
+    EMS_Duty_NAS_251111.py
+    duty_log.json
+    hamis_duty_log.json
+    discord_user_ids.json
+    char_to_discord_name.json
+    logs/
+        runtime.log
+        restart.log
+    reports/
+        sniff_duty_*.txt
+        sniff_duty_*.json
+    exports/
+        betoppano_*.json
+    temp/
+    logtemp/
+    .env
+
+Mappák szerepe:
+- logs/: működési naplók
+- reports/: diagnosztikai jelentések
+- exports/: csatorna exportok
+- temp/: átmeneti feldolgozási fájlok
+- logtemp/: részletes logok, fragmentált tartalommal
+
+============================================================
+7. ENV KONFIGURÁCIÓ
+============================================================
+A bot konfigurációja a .env fájlban található. A fájl NEM kerül megosztásra érzékeny adatok miatt.
+
+Az ENV szerepe:
+- csatorna ID-k,
+- rang ID-k,
+- szerepkörök,
+- teszt mód,
+- premium logika paraméterei,
+- logika kapcsolók.
+
+ENV előnye:
+- frissítés esetén a bot automatikusan újraindul,
+- nincs szükség hardcode-ra,
+- biztonságos tárolás,
+- könnyen karbantartható.
+
+============================================================
+8. JSON ADATBÁZISOK
+============================================================
+
+duty_log.json:
+    A rendszer legfontosabb adatbázisa.
+    Minden szolgálatfelvétel és szolgálatleadás rekordot tartalmaz normalizált, időbélyeges formában.
+
+hamis_duty_log.json:
+    Teszt módhoz használatos adatbázis.
+    Csak debug célokra.
+
+discord_user_ids.json:
+    Discord név → Discord ID megfeleltetés.
+    Szükséges a mentionok generálásához.
+
+char_to_discord_name.json:
+    FiveM név → Discord név megfeleltetés.
+    A pair_char parancs kezeli.
+
+============================================================
+9. TESZT MÓD
+============================================================
+Teszt mód bekapcsolása:
+    TEST_MODE=1 az ENV-ben.
+
+Teszt mód hatása:
+- a jelen parancs NEM használja a valódi duty_log.json fájlt,
+- helyette a hamis_duty_log.json-t olvassa,
+- az utolsó N tesztrekordot dolgozza fel,
+- kizárólag demó- és hibakeresési célokra.
+
+============================================================
+10. PARANCSOK (HELP_CMDS) – TELJES LEÍRÁS
+============================================================
+
+A parancsok részletes dokumentációja a HELP_CMDS listában található. 
+A lista a bot működéséhez igazított, javított és egységesített változatot tartalmazza. 
+A parancsok kategóriák szerinti csoportosításban érhetők el.
+
+(Beillesztendő a teljes HELP_CMDS blokk, amit külön üzenetben már átadtam.)
+
+============================================================
+11. HETI_TOP PRÉMIUMLOGIKA – PROGRAMTECHNIKAI ÖSSZEFOGLALÓ
+============================================================
+A prémiumelosztás logikája a frakció hivatalos szabályzata alapján működik.
+
+A bot feladata:
+- kiszámolja az adott hét intervallumát,
+- összesíti a szolgálati időket,
+- sorrendbe rendezi az egyéneket EMS rangprioritás szerint,
+- elkülöníti a főágat és a gyakornoki vígaszágat,
+- ellenőrzi, hogy a vígaszágon kiosztott prémium nem lehet magasabb, mint a főág megfelelő pozícióján,
+- számítás elvégzése után előnézetként kiküldi az admin csatornára,
+- csak a !mehet parancs közzéteszi az éles csatornára.
+
+A bot nem módosítja a prémiumösszegeket önkényesen: csak a szabályzatban meghatározott kereteket alkalmazza.
+
+============================================================
+12. FOLYAMATÁBRÁK (ASCII)
+============================================================
+
+Watchdog:
+
+        Bot fut
+          │
+    CHECK_INTERVAL (10s)
+          │
+   Fájl változott?
+      ├─ Nem → tovább
+      └─ Igen → újraindítás
+
+Jelen parancs:
+
+!jelen
+   │
+Duty-log frissítés (2 nap)
+   │
+Ha hiányos → bővítés 5 napig
+   │
+Szolgálatban lévők meghatározása
+   │
+EMS rangsorrend szerinti rendezés
+   │
+Kimenet
+
+Heti_top:
+
+!heti_top
+   │
+Hét intervalluma
+   │
+Összesítés
+   │
+Rangsor + prémium
+   │
+Előnézet admin csatornára
+   │
+(mehet)
+   │
+Közzététel
+
+============================================================
+13. GYAKORI HIBÁK ÉS MEGOLDÁSOK
+============================================================
+
+- Ha a bot nem reagál → 10 mp-en belül watchdog újraindítja.
+- Ha a frissítés hibás → használj: !frissites teljes
+- Ha hiányoznak Discord ID-k → !diagnosztika
+- Ha üres jelen lista → ellenőrizd a duty-log csatorna üzeneteit.
+- Ha a JSON állomány sérült → JSON ellenőrzővel javítható.
+
+============================================================
+14. MELLÉKLETEK
+============================================================
+
+- duty-log üzenetek szerkezete,
+- rangprioritási lista a jelen parancshoz,
+- JSON mezők magyarázata,
+- ajánlott NAS jogosultsági beállítások.
+
+============================================================
+A dokumentáció vége.
+============================================================
+1 melleklet_duty_log_szerkezet.txtDUTY-LOG ÜZENETEK SZERKEZETE
+
+A duty-log csatornában kétféle üzenetfordulat fordul elő:
+
+1) Szolgálat felvétele:
+   "<név> felvette a szolgálatot"
+   Példa:
+   "Kovács Tamás felvette a szolgálatot"
+
+2) Szolgálat leadása:
+   "<név> leadta a szolgálatot"
+   Tartalmazhat időtartam-összefoglalót is:
+   "Kiss László leadta a szolgálatot – összesen 3 óra 12 perc"
+
+A bot normalizálása:
+- kisbetűsítés
+- fölösleges szóközök törlése
+- speciális karakterek egységes kezelése
+- időbélyegek hozzárendelése (Discord message.created_at alapján)
+
+A JSON rekordok mezői:
+{
+  "name": "...",
+  "event": "start" | "end",
+  "timestamp": "YYYY-MM-DD HH:MM",
+  "msg_id": "discord message id"
+}
+2 melleklet_rangprioritas.txtRANGPRIORITÁS A JELEN PARANCSHOZ
+
+A jelen parancs rangprioritása felülről lefelé:
+
+1. Vezetőség
+2. Orvos
+3. Rezidens
+4. Mentőtiszt
+5. Ápoló
+6. Gyakornok
+
+A rangprioritást a bot az ENV-ben megadott szerep-ID-k alapján határozza meg.
+
+A jelen parancs ezt a sorrendet követi:
+- magasabb rang mindig felül jelenik meg;
+- azonos rangon belül név szerint rendez;
+- ha szolgálati idő alapján kell dönteni, a legfrissebb aktív szolgálat számít.
+3 melleklet_json_mezok.txtJSON ADATBÁZIS MEZŐK MAGYARÁZATA
+
+1) duty_log.json
+----------------
+Minden rekord:
+{
+  "name": "Kiss László",
+  "event": "start" | "end",
+  "timestamp": "2025-11-13 14:33",
+  "msg_id": "1349829505149309010"
+}
+
+2) discord_user_ids.json
+------------------------
+{
+  "kiss laszlo": "123456789012345678",
+  "dr water white": "234567890123456789"
+}
+
+3) char_to_discord_name.json
+----------------------------
+"five m karakter nev": "discord nev"
+
+4) hamis_duty_log.json
+----------------------
+Teszt módhoz szánt, mesterségesen összeállított adatok.
+
+4 melleklet_nas_jogosultsagok.txtAJÁNLOTT NAS JOGOSULTSÁGOK ÉS BEÁLLÍTÁSOK
+
+1) Python környezet
+-------------------
+A bot /bin/python3-at használja, ne telepíts külön Python verziót.
+
+2) Fájljogosultságok
+--------------------
+A bot mappájának ajánlott beállításai:
+- Tulajdonos: Attila_NAS_System
+- Csoport: users
+- Jogosultság: RWX / RW- / RW-
+
+3) DSM Task Scheduler
+---------------------
+Esemény: Rendszerindítás  
+Futtatandó: run_watchdog.sh  
+Felhasználó: admin jogú rendszerfiók (nem root)
+
+4) SSH használat
+----------------
+A bot SSH-n futtatható, de:
+- a watchdog újraindítja,
+- CTRL+C nem állítja le véglegesen.
+
+5) Fájlrendszer
+---------------
+Minden fájl a /volume1/homes/Attila_NAS_System/EMS_Duty könyvtárban legyen.
+Ne használj külső bind mountot.
+
+EMS_DUTY_BOT_LEIRAS_FULL.txt
+melleklet_duty_log_szerkezet.txt
+melleklet_rangprioritas.txt
+melleklet_json_mezok.txt
+melleklet_nas_jogosultsagok.txt

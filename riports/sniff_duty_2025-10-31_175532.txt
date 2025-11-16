@@ -1,0 +1,5624 @@
+
+==============================
+ID: 1433858069380468778
+Timestamp: 2025-10-31 16:40:03.535000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433858006944317491
+Timestamp: 2025-10-31 16:39:48.649000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433834846580506816
+Timestamp: 2025-10-31 15:07:46.788000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 66 perc
+
+==============================
+ID: 1433833290275749958
+Timestamp: 2025-10-31 15:01:35.736000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433830946452537424
+Timestamp: 2025-10-31 14:52:16.925000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1433830346469675009
+Timestamp: 2025-10-31 14:49:53.878000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433825736787099800
+Timestamp: 2025-10-31 14:31:34.844000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433818309018783927
+Timestamp: 2025-10-31 14:02:03.926000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433802556630630430
+Timestamp: 2025-10-31 12:59:28.264000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 71 perc
+
+==============================
+ID: 1433799645791780864
+Timestamp: 2025-10-31 12:47:54.266000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433792092953645087
+Timestamp: 2025-10-31 12:17:53.529000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433784667106050048
+Timestamp: 2025-10-31 11:48:23.069000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433620058445185194
+Timestamp: 2025-10-31 00:54:17.306000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Szakápoló
+Szolgálatban töltött idő: 94 perc
+
+==============================
+ID: 1433618849550438480
+Timestamp: 2025-10-31 00:49:29.083000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Szakápoló
+Fizetés összege: $455
+
+==============================
+ID: 1433611295529111784
+Timestamp: 2025-10-31 00:19:28.064000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Szakápoló
+Fizetés összege: $455
+
+==============================
+ID: 1433603744007716874
+Timestamp: 2025-10-30 23:49:27.641000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Szakápoló
+Fizetés összege: $455
+
+==============================
+ID: 1433596419897430107
+Timestamp: 2025-10-30 23:20:21.437000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Szakápoló
+
+==============================
+ID: 1433589012597047419
+Timestamp: 2025-10-30 22:50:55.399000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433588736058196050
+Timestamp: 2025-10-30 22:49:49.467000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433588663769628777
+Timestamp: 2025-10-30 22:49:32.232000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433588521746301070
+Timestamp: 2025-10-30 22:48:58.371000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433558491229851770
+Timestamp: 2025-10-30 20:49:38.538000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 191 perc
+
+==============================
+ID: 1433558120583659652
+Timestamp: 2025-10-30 20:48:10.169000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Szakápoló
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1433557433573314622
+Timestamp: 2025-10-30 20:45:26.373000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Szakápoló
+
+==============================
+ID: 1433557225607266355
+Timestamp: 2025-10-30 20:44:36.790000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Szakápoló
+Szolgálatban töltött idő: 131 perc
+
+==============================
+ID: 1433554394699268126
+Timestamp: 2025-10-30 20:33:21.849000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Szakápoló
+Fizetés összege: $455
+
+==============================
+ID: 1433553640936701964
+Timestamp: 2025-10-30 20:30:22.138000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433552211618562108
+Timestamp: 2025-10-30 20:24:41.362000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433552140005281966
+Timestamp: 2025-10-30 20:24:24.288000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433550265507905617
+Timestamp: 2025-10-30 20:16:57.373000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 68 perc
+
+==============================
+ID: 1433548164232773702
+Timestamp: 2025-10-30 20:08:36.390000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 152 perc
+
+==============================
+ID: 1433548119492137083
+Timestamp: 2025-10-30 20:08:25.723000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 93 perc
+
+==============================
+ID: 1433548101398040628
+Timestamp: 2025-10-30 20:08:21.409000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433547906236944465
+Timestamp: 2025-10-30 20:07:34.879000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 46 perc
+
+==============================
+ID: 1433547596026085441
+Timestamp: 2025-10-30 20:06:20.919000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433547344309260451
+Timestamp: 2025-10-30 20:05:20.905000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1433546840976134224
+Timestamp: 2025-10-30 20:03:20.901000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433546085447504033
+Timestamp: 2025-10-30 20:00:20.769000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433545535188631674
+Timestamp: 2025-10-30 19:58:09.577000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 75 perc
+
+==============================
+ID: 1433543819449864339
+Timestamp: 2025-10-30 19:51:20.513000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433543522300199036
+Timestamp: 2025-10-30 19:50:09.667000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 49 perc
+
+==============================
+ID: 1433543317920153651
+Timestamp: 2025-10-30 19:49:20.939000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433540546688979034
+Timestamp: 2025-10-30 19:38:20.226000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433540042403614831
+Timestamp: 2025-10-30 19:36:19.995000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433539790195916881
+Timestamp: 2025-10-30 19:35:19.864000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1433539287365718061
+Timestamp: 2025-10-30 19:33:19.980000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433538532294660258
+Timestamp: 2025-10-30 19:30:19.957000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433538531942334575
+Timestamp: 2025-10-30 19:30:19.873000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433536450200338525
+Timestamp: 2025-10-30 19:22:03.547000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1433533077736652871
+Timestamp: 2025-10-30 19:08:39.489000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433532993494057003
+Timestamp: 2025-10-30 19:08:19.404000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433532489728528575
+Timestamp: 2025-10-30 19:06:19.297000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433532237638271107
+Timestamp: 2025-10-30 19:05:19.194000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1433531734506344559
+Timestamp: 2025-10-30 19:03:19.238000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433531224592224338
+Timestamp: 2025-10-30 19:01:17.665000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433527201038336022
+Timestamp: 2025-10-30 18:45:18.375000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433525451984339028
+Timestamp: 2025-10-30 18:38:21.368000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433524935388565555
+Timestamp: 2025-10-30 18:36:18.202000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433524830397005935
+Timestamp: 2025-10-30 18:35:53.170000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1433524235350839296
+Timestamp: 2025-10-30 18:33:31.300000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1433519647151362108
+Timestamp: 2025-10-30 18:15:17.388000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433517381405114603
+Timestamp: 2025-10-30 18:06:17.192000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433509911249162280
+Timestamp: 2025-10-30 17:36:36.168000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433509016075763764
+Timestamp: 2025-10-30 17:33:02.742000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1433483288860692724
+Timestamp: 2025-10-30 15:50:48.896000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 110 perc
+
+==============================
+ID: 1433478103325474949
+Timestamp: 2025-10-30 15:30:12.568000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433473813902786641
+Timestamp: 2025-10-30 15:13:09.890000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433473696693092353
+Timestamp: 2025-10-30 15:12:41.945000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 29 perc
+
+==============================
+ID: 1433473633409564873
+Timestamp: 2025-10-30 15:12:26.857000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433470548918276189
+Timestamp: 2025-10-30 15:00:11.457000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433466683153977487
+Timestamp: 2025-10-30 14:44:49.787000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433466533174186166
+Timestamp: 2025-10-30 14:44:14.029000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433462996616613909
+Timestamp: 2025-10-30 14:30:10.848000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433461397492076676
+Timestamp: 2025-10-30 14:23:49.587000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433455567443329158
+Timestamp: 2025-10-30 14:00:39.595000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433420668493365351
+Timestamp: 2025-10-30 11:41:59.037000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1433420152103501945
+Timestamp: 2025-10-30 11:39:55.920000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433405525785186344
+Timestamp: 2025-10-30 10:41:48.734000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433405106052661330
+Timestamp: 2025-10-30 10:40:08.662000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433404479499272305
+Timestamp: 2025-10-30 10:37:39.280000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 44 perc
+
+==============================
+ID: 1433402978404143174
+Timestamp: 2025-10-30 10:31:41.391000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 86 perc
+
+==============================
+ID: 1433400804542517248
+Timestamp: 2025-10-30 10:23:03.102000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433396272194129990
+Timestamp: 2025-10-30 10:05:02.506000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433393323858460692
+Timestamp: 2025-10-30 09:53:19.568000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433388718604943361
+Timestamp: 2025-10-30 09:35:01.590000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433381239095693357
+Timestamp: 2025-10-30 09:05:18.336000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433221189723095142
+Timestamp: 2025-10-29 22:29:19.592000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 120 perc
+
+==============================
+ID: 1433217441265090680
+Timestamp: 2025-10-29 22:14:25.890000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433202334837506110
+Timestamp: 2025-10-29 21:14:24.237000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433195110706712580
+Timestamp: 2025-10-29 20:45:41.870000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 96 perc
+
+==============================
+ID: 1433194957900087366
+Timestamp: 2025-10-29 20:45:05.438000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 202 perc
+
+==============================
+ID: 1433194780845805609
+Timestamp: 2025-10-29 20:44:23.225000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433193521698967555
+Timestamp: 2025-10-29 20:39:23.021000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433189796909551729
+Timestamp: 2025-10-29 20:24:34.962000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1433185969888034886
+Timestamp: 2025-10-29 20:09:22.529000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1433180934290669591
+Timestamp: 2025-10-29 19:49:21.949000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433179131671216180
+Timestamp: 2025-10-29 19:42:12.171000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 70 perc
+
+==============================
+ID: 1433178733052694660
+Timestamp: 2025-10-29 19:40:37.133000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433178674131112196
+Timestamp: 2025-10-29 19:40:23.085000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433178415770370271
+Timestamp: 2025-10-29 19:39:21.487000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1433177590461632674
+Timestamp: 2025-10-29 19:36:04.718000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 152 perc
+
+==============================
+ID: 1433176905133326478
+Timestamp: 2025-10-29 19:33:21.323000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433176712480292965
+Timestamp: 2025-10-29 19:32:35.391000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433176541977772082
+Timestamp: 2025-10-29 19:31:54.740000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433176511581651096
+Timestamp: 2025-10-29 19:31:47.493000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 139 perc
+
+==============================
+ID: 1433176401909121105
+Timestamp: 2025-10-29 19:31:21.345000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433174820513906768
+Timestamp: 2025-10-29 19:25:04.311000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 11 perc
+
+==============================
+ID: 1433173379963162714
+Timestamp: 2025-10-29 19:19:20.857000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433172012536303727
+Timestamp: 2025-10-29 19:13:54.837000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1433171618938753026
+Timestamp: 2025-10-29 19:12:20.996000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433171049159327894
+Timestamp: 2025-10-29 19:10:05.150000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1433169352160575620
+Timestamp: 2025-10-29 19:03:20.554000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433168847963160740
+Timestamp: 2025-10-29 19:01:20.344000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1433165828596961443
+Timestamp: 2025-10-29 18:49:20.471000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433164066548879510
+Timestamp: 2025-10-29 18:42:20.366000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433161798764335238
+Timestamp: 2025-10-29 18:33:19.684000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433161318189236284
+Timestamp: 2025-10-29 18:31:25.106000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1433159319700115456
+Timestamp: 2025-10-29 18:23:28.629000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 94 perc
+
+==============================
+ID: 1433158778001428633
+Timestamp: 2025-10-29 18:21:19.478000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433158274152398918
+Timestamp: 2025-10-29 18:19:19.351000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433156511680561194
+Timestamp: 2025-10-29 18:12:19.145000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433154245527470110
+Timestamp: 2025-10-29 18:03:18.852000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433151225204834426
+Timestamp: 2025-10-29 17:51:18.751000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433150720970063952
+Timestamp: 2025-10-29 17:49:18.532000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1433148958414471402
+Timestamp: 2025-10-29 17:42:18.306000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433146694064668865
+Timestamp: 2025-10-29 17:33:18.443000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1433143670957150349
+Timestamp: 2025-10-29 17:21:17.678000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433143387359285471
+Timestamp: 2025-10-29 17:20:10.063000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1433141481560084601
+Timestamp: 2025-10-29 17:12:35.685000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433139210688135218
+Timestamp: 2025-10-29 17:03:34.267000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433136119473504316
+Timestamp: 2025-10-29 16:51:17.264000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433135646179852340
+Timestamp: 2025-10-29 16:49:24.422000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433122605564563539
+Timestamp: 2025-10-29 15:57:35.297000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1433122540552720405
+Timestamp: 2025-10-29 15:57:19.797000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433113308130447460
+Timestamp: 2025-10-29 15:20:38.616000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1433112945143058473
+Timestamp: 2025-10-29 15:19:12.073000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433111047774015551
+Timestamp: 2025-10-29 15:11:39.705000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 116 perc
+
+==============================
+ID: 1433104395087908986
+Timestamp: 2025-10-29 14:45:13.581000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433096842681389088
+Timestamp: 2025-10-29 14:15:12.947000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433089288928759868
+Timestamp: 2025-10-29 13:45:11.992000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433081983537254536
+Timestamp: 2025-10-29 13:16:10.251000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433064415720112309
+Timestamp: 2025-10-29 12:06:21.757000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433064265912291338
+Timestamp: 2025-10-29 12:05:46.040000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1433030919949651978
+Timestamp: 2025-10-29 09:53:15.743000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1433030655712825384
+Timestamp: 2025-10-29 09:52:12.744000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432837377738670130
+Timestamp: 2025-10-28 21:04:11.684000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 39 perc
+
+==============================
+ID: 1432837247190958222
+Timestamp: 2025-10-28 21:03:40.559000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 162 perc
+
+==============================
+ID: 1432835096091820122
+Timestamp: 2025-10-28 20:55:07.697000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432834089521512751
+Timestamp: 2025-10-28 20:51:07.712000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432831974971801680
+Timestamp: 2025-10-28 20:42:43.564000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 77 perc
+
+==============================
+ID: 1432831523056390315
+Timestamp: 2025-10-28 20:40:55.819000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 173 perc
+
+==============================
+ID: 1432827686153228429
+Timestamp: 2025-10-28 20:25:41.030000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432827541928018052
+Timestamp: 2025-10-28 20:25:06.644000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432826535387336735
+Timestamp: 2025-10-28 20:21:06.666000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432825529198710987
+Timestamp: 2025-10-28 20:17:06.772000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432819988661534823
+Timestamp: 2025-10-28 19:55:05.805000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432818983366688938
+Timestamp: 2025-10-28 19:51:06.124000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432817975169388564
+Timestamp: 2025-10-28 19:47:05.751000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432812616753090620
+Timestamp: 2025-10-28 19:25:48.205000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1432811429966385283
+Timestamp: 2025-10-28 19:21:05.253000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432810420753662034
+Timestamp: 2025-10-28 19:17:04.638000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432803874942746794
+Timestamp: 2025-10-28 18:51:03.995000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432802873602736291
+Timestamp: 2025-10-28 18:47:05.257000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432797584518418492
+Timestamp: 2025-10-28 18:26:04.241000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 224 perc
+
+==============================
+ID: 1432796562194567378
+Timestamp: 2025-10-28 18:22:00.500000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432795313608851597
+Timestamp: 2025-10-28 18:17:02.814000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432793803055562752
+Timestamp: 2025-10-28 18:11:02.670000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432789752075128977
+Timestamp: 2025-10-28 17:54:56.841000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 7 perc
+
+==============================
+ID: 1432789561720832061
+Timestamp: 2025-10-28 17:54:11.457000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432789395454296148
+Timestamp: 2025-10-28 17:53:31.816000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432787903930699867
+Timestamp: 2025-10-28 17:47:36.209000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432787772758032515
+Timestamp: 2025-10-28 17:47:04.935000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432786249533358200
+Timestamp: 2025-10-28 17:41:01.770000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432773140169101392
+Timestamp: 2025-10-28 16:48:56.254000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1432773018345668640
+Timestamp: 2025-10-28 16:48:27.209000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1432773010346999950
+Timestamp: 2025-10-28 16:48:25.302000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 18 perc
+
+==============================
+ID: 1432770639227261041
+Timestamp: 2025-10-28 16:38:59.983000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432768380879896658
+Timestamp: 2025-10-28 16:30:01.551000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1432768259740139652
+Timestamp: 2025-10-28 16:29:32.669000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432768003111391302
+Timestamp: 2025-10-28 16:28:31.484000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432767986543886498
+Timestamp: 2025-10-28 16:28:27.534000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1432767978281238639
+Timestamp: 2025-10-28 16:28:25.564000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432766756312715264
+Timestamp: 2025-10-28 16:23:34.224000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1432766667603316897
+Timestamp: 2025-10-28 16:23:13.074000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432766602860040252
+Timestamp: 2025-10-28 16:22:57.638000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 4 perc
+
+==============================
+ID: 1432765427523649606
+Timestamp: 2025-10-28 16:18:17.416000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432764074168418497
+Timestamp: 2025-10-28 16:12:54.751000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 5 perc
+
+==============================
+ID: 1432763085961035888
+Timestamp: 2025-10-28 16:08:59.144000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432762829651447808
+Timestamp: 2025-10-28 16:07:58.035000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432760254151790803
+Timestamp: 2025-10-28 15:57:43.988000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1432760170244604096
+Timestamp: 2025-10-28 15:57:23.983000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432755533730943130
+Timestamp: 2025-10-28 15:38:58.552000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432749394658070689
+Timestamp: 2025-10-28 15:14:34.883000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432749158413893633
+Timestamp: 2025-10-28 15:13:38.558000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432749035768254687
+Timestamp: 2025-10-28 15:13:09.317000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432748822005813260
+Timestamp: 2025-10-28 15:12:18.352000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432748695878631466
+Timestamp: 2025-10-28 15:11:48.281000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 94 perc
+
+==============================
+ID: 1432747979365683343
+Timestamp: 2025-10-28 15:08:57.451000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432747476271501443
+Timestamp: 2025-10-28 15:06:57.504000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432745011690213406
+Timestamp: 2025-10-28 14:57:09.902000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 51 perc
+
+==============================
+ID: 1432740516776116224
+Timestamp: 2025-10-28 14:39:18.231000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432739922934235196
+Timestamp: 2025-10-28 14:36:56.648000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432739671426859163
+Timestamp: 2025-10-28 14:35:56.684000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432732370447896698
+Timestamp: 2025-10-28 14:06:55.995000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432732136280031352
+Timestamp: 2025-10-28 14:06:00.165000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432725048770298072
+Timestamp: 2025-10-28 13:37:50.371000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432703628384272545
+Timestamp: 2025-10-28 12:12:43.353000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 90 perc
+
+==============================
+ID: 1432703526026477599
+Timestamp: 2025-10-28 12:12:18.949000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1432702959317287033
+Timestamp: 2025-10-28 12:10:03.835000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 235 perc
+
+==============================
+ID: 1432695973817225327
+Timestamp: 2025-10-28 11:42:18.362000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1432695720657555586
+Timestamp: 2025-10-28 11:41:18.004000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432688418336280727
+Timestamp: 2025-10-28 11:12:16.995000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Osztályvezető
+Fizetés összege: $580
+
+==============================
+ID: 1432688166287970437
+Timestamp: 2025-10-28 11:11:16.902000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432681050999488582
+Timestamp: 2025-10-28 10:43:00.485000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1432680614972231680
+Timestamp: 2025-10-28 10:41:16.528000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432673060997300335
+Timestamp: 2025-10-28 10:11:15.520000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432657451399905320
+Timestamp: 2025-10-28 09:09:13.902000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432649899463147541
+Timestamp: 2025-10-28 08:39:13.380000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432642536673120327
+Timestamp: 2025-10-28 08:09:57.954000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432512559021428858
+Timestamp: 2025-10-27 23:33:28.867000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 233 perc
+
+==============================
+ID: 1432511602573180958
+Timestamp: 2025-10-27 23:29:40.832000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432509585603952892
+Timestamp: 2025-10-27 23:21:39.949000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 273 perc
+
+==============================
+ID: 1432505812999340063
+Timestamp: 2025-10-27 23:06:40.490000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432504282313261247
+Timestamp: 2025-10-27 23:00:35.546000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 74 perc
+
+==============================
+ID: 1432500524074405979
+Timestamp: 2025-10-27 22:45:39.512000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432498258701193226
+Timestamp: 2025-10-27 22:36:39.405000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432498258374164690
+Timestamp: 2025-10-27 22:36:39.327000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432493733542101082
+Timestamp: 2025-10-27 22:18:40.523000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 280 perc
+
+==============================
+ID: 1432492971273486479
+Timestamp: 2025-10-27 22:15:38.784000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432491208688668762
+Timestamp: 2025-10-27 22:08:38.551000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432490705330110635
+Timestamp: 2025-10-27 22:06:38.541000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432490705242030183
+Timestamp: 2025-10-27 22:06:38.520000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432485610794389514
+Timestamp: 2025-10-27 21:46:23.909000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432483661491474594
+Timestamp: 2025-10-27 21:38:39.159000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432483152663810058
+Timestamp: 2025-10-27 21:36:37.845000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432483151535673539
+Timestamp: 2025-10-27 21:36:37.576000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432481048532619285
+Timestamp: 2025-10-27 21:28:16.181000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 93 perc
+
+==============================
+ID: 1432479123854463097
+Timestamp: 2025-10-27 21:20:37.302000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432477001910063255
+Timestamp: 2025-10-27 21:12:11.391000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) leadta a szolgálatot**
+Description:
+Mentő - Igazgató
+Szolgálatban töltött idő: 0 perc
+
+==============================
+ID: 1432476922499174530
+Timestamp: 2025-10-27 21:11:52.458000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) felvette a szolgálatot**
+Description:
+Mentő - Igazgató
+
+==============================
+ID: 1432476893126590644
+Timestamp: 2025-10-27 21:11:45.455000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) leadta a szolgálatot**
+Description:
+Mentő - Igazgató
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1432476578704654367
+Timestamp: 2025-10-27 21:10:30.491000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) felvette a szolgálatot**
+Description:
+Mentő - Igazgató
+
+==============================
+ID: 1432476102701613057
+Timestamp: 2025-10-27 21:08:37.003000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432475599938519070
+Timestamp: 2025-10-27 21:06:37.135000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432475599389196380
+Timestamp: 2025-10-27 21:06:37.004000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432468549485723782
+Timestamp: 2025-10-27 20:38:36.176000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432468048190771230
+Timestamp: 2025-10-27 20:36:36.658000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432468045883768883
+Timestamp: 2025-10-27 20:36:36.108000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432462506411950133
+Timestamp: 2025-10-27 20:14:35.395000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432460995737161768
+Timestamp: 2025-10-27 20:08:35.222000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432460491820634162
+Timestamp: 2025-10-27 20:06:35.079000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432460491669897307
+Timestamp: 2025-10-27 20:06:35.043000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432455138169196547
+Timestamp: 2025-10-27 19:45:18.669000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1432453443209134124
+Timestamp: 2025-10-27 19:38:34.559000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432453045375074315
+Timestamp: 2025-10-27 19:36:59.708000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432452939477159979
+Timestamp: 2025-10-27 19:36:34.460000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432445889519026327
+Timestamp: 2025-10-27 19:08:33.619000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432445386165059675
+Timestamp: 2025-10-27 19:06:33.610000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432439907435155488
+Timestamp: 2025-10-27 18:44:47.379000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432439848131887165
+Timestamp: 2025-10-27 18:44:33.240000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432439827101650974
+Timestamp: 2025-10-27 18:44:28.226000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432439810387214407
+Timestamp: 2025-10-27 18:44:24.241000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 59 perc
+
+==============================
+ID: 1432439685204148225
+Timestamp: 2025-10-27 18:43:54.395000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 60 perc
+
+==============================
+ID: 1432439595353636946
+Timestamp: 2025-10-27 18:43:32.973000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432438337737592883
+Timestamp: 2025-10-27 18:38:33.134000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432437836602151043
+Timestamp: 2025-10-27 18:36:33.654000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432432296450982025
+Timestamp: 2025-10-27 18:14:32.779000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432432042158854267
+Timestamp: 2025-10-27 18:13:32.151000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432430783540367572
+Timestamp: 2025-10-27 18:08:32.073000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432424951935402076
+Timestamp: 2025-10-27 17:45:21.710000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432424703162712096
+Timestamp: 2025-10-27 17:44:22.398000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432424687975268372
+Timestamp: 2025-10-27 17:44:18.777000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 10 perc
+
+==============================
+ID: 1432423317964591195
+Timestamp: 2025-10-27 17:38:52.141000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432421145239621773
+Timestamp: 2025-10-27 17:30:14.123000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432407790751584347
+Timestamp: 2025-10-27 16:37:10.165000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432407550212702379
+Timestamp: 2025-10-27 16:36:12.816000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432395494709268531
+Timestamp: 2025-10-27 15:48:18.560000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 4 perc
+
+==============================
+ID: 1432394461735813253
+Timestamp: 2025-10-27 15:44:12.280000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432389532535492721
+Timestamp: 2025-10-27 15:24:37.067000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 128 perc
+
+==============================
+ID: 1432387480371593278
+Timestamp: 2025-10-27 15:16:27.793000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432379927822602270
+Timestamp: 2025-10-27 14:46:27.125000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432376577647317074
+Timestamp: 2025-10-27 14:33:08.381000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 60 perc
+
+==============================
+ID: 1432376403374117005
+Timestamp: 2025-10-27 14:32:26.831000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432372374308786267
+Timestamp: 2025-10-27 14:16:26.227000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432368851504595014
+Timestamp: 2025-10-27 14:02:26.325000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432364821529104568
+Timestamp: 2025-10-27 13:46:25.504000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432361337874419732
+Timestamp: 2025-10-27 13:32:34.936000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432357488292007988
+Timestamp: 2025-10-27 13:17:17.124000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432348470802514024
+Timestamp: 2025-10-27 12:41:27.187000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 97 perc
+
+==============================
+ID: 1432348212081197219
+Timestamp: 2025-10-27 12:40:25.503000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 15 perc
+
+==============================
+ID: 1432346703800959148
+Timestamp: 2025-10-27 12:34:25.901000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432345139480629349
+Timestamp: 2025-10-27 12:28:12.938000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 3 perc
+
+==============================
+ID: 1432344941161615410
+Timestamp: 2025-10-27 12:27:25.655000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432344214867283979
+Timestamp: 2025-10-27 12:24:32.493000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432344205576900680
+Timestamp: 2025-10-27 12:24:30.278000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432341492155945011
+Timestamp: 2025-10-27 12:13:43.348000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 69 perc
+
+==============================
+ID: 1432339381234040924
+Timestamp: 2025-10-27 12:05:20.065000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 43 perc
+
+==============================
+ID: 1432339149427310593
+Timestamp: 2025-10-27 12:04:24.798000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432339149360205864
+Timestamp: 2025-10-27 12:04:24.782000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432338897987440712
+Timestamp: 2025-10-27 12:03:24.850000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Gyakornok
+Fizetés összege: $400
+
+==============================
+ID: 1432331596865998870
+Timestamp: 2025-10-27 11:34:24.127000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432331596282986660
+Timestamp: 2025-10-27 11:34:23.988000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432331344695922760
+Timestamp: 2025-10-27 11:33:24.005000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Gyakornok
+Fizetés összege: $400
+
+==============================
+ID: 1432327614135271445
+Timestamp: 2025-10-27 11:18:34.570000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432326846938353664
+Timestamp: 2025-10-27 11:15:31.656000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 46 perc
+
+==============================
+ID: 1432324049232728200
+Timestamp: 2025-10-27 11:04:24.631000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432324046351237161
+Timestamp: 2025-10-27 11:04:23.944000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432323900183810078
+Timestamp: 2025-10-27 11:03:49.095000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1432322281673195701
+Timestamp: 2025-10-27 10:57:23.212000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Gyakornok
+Fizetés összege: $400
+
+==============================
+ID: 1432315421595406389
+Timestamp: 2025-10-27 10:30:07.642000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1432315408152793100
+Timestamp: 2025-10-27 10:30:04.437000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Maximilian Schumacher (Gatter van) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1432168673921208472
+Timestamp: 2025-10-27 00:47:00.270000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 276 perc
+
+==============================
+ID: 1432167161157259386
+Timestamp: 2025-10-27 00:40:59.599000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432159608239030376
+Timestamp: 2025-10-27 00:10:58.843000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432152055870656522
+Timestamp: 2025-10-26 23:40:58.218000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432144503070003401
+Timestamp: 2025-10-26 23:10:57.490000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432136949400866979
+Timestamp: 2025-10-26 22:40:56.555000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432129394851184762
+Timestamp: 2025-10-26 22:10:55.410000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432121841979232256
+Timestamp: 2025-10-26 21:40:54.665000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432116013960396912
+Timestamp: 2025-10-26 21:17:45.157000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 49 perc
+
+==============================
+ID: 1432114434054164675
+Timestamp: 2025-10-26 21:11:28.478000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 188 perc
+
+==============================
+ID: 1432114288780382279
+Timestamp: 2025-10-26 21:10:53.842000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432112851203653713
+Timestamp: 2025-10-26 21:05:11.097000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 133 perc
+
+==============================
+ID: 1432111015541215405
+Timestamp: 2025-10-26 20:57:53.441000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432109504803115138
+Timestamp: 2025-10-26 20:51:53.253000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432106736029929636
+Timestamp: 2025-10-26 20:40:53.126000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432103699525931008
+Timestamp: 2025-10-26 20:28:49.167000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432101952333943047
+Timestamp: 2025-10-26 20:21:52.604000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432099788790169690
+Timestamp: 2025-10-26 20:13:16.775000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) leadta a szolgálatot**
+Description:
+Mentő - Igazgató
+Szolgálatban töltött idő: 255 perc
+
+==============================
+ID: 1432099322526175476
+Timestamp: 2025-10-26 20:11:25.609000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Thomas Brooks (Sanyihunter) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432098721792921662
+Timestamp: 2025-10-26 20:09:02.383000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432098466523512894
+Timestamp: 2025-10-26 20:08:01.522000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432098437633147062
+Timestamp: 2025-10-26 20:07:54.634000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432098424861233303
+Timestamp: 2025-10-26 20:07:51.589000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432098407526432883
+Timestamp: 2025-10-26 20:07:47.456000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 230 perc
+
+==============================
+ID: 1432098174868262933
+Timestamp: 2025-10-26 20:06:51.986000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432097420103258183
+Timestamp: 2025-10-26 20:03:52.036000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432097300448153611
+Timestamp: 2025-10-26 20:03:23.508000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 85 perc
+
+==============================
+ID: 1432094398207885382
+Timestamp: 2025-10-26 19:51:51.560000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432093139128156270
+Timestamp: 2025-10-26 19:46:51.372000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432091513055215767
+Timestamp: 2025-10-26 19:40:23.686000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1432090989845283019
+Timestamp: 2025-10-26 19:38:18.943000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 163 perc
+
+==============================
+ID: 1432090890805055618
+Timestamp: 2025-10-26 19:37:55.330000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432090875802157180
+Timestamp: 2025-10-26 19:37:51.753000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 309 perc
+
+==============================
+ID: 1432090872454844606
+Timestamp: 2025-10-26 19:37:50.955000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432090621048393848
+Timestamp: 2025-10-26 19:36:51.015000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432089363390529699
+Timestamp: 2025-10-26 19:31:51.166000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432088858190942403
+Timestamp: 2025-10-26 19:29:50.717000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432086844828418078
+Timestamp: 2025-10-26 19:21:50.694000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432085584658042983
+Timestamp: 2025-10-26 19:16:50.246000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432084577031164027
+Timestamp: 2025-10-26 19:12:50.009000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432083318454747406
+Timestamp: 2025-10-26 19:07:49.941000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432083068038025386
+Timestamp: 2025-10-26 19:06:50.237000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432080044808736858
+Timestamp: 2025-10-26 18:54:49.443000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432079423967985848
+Timestamp: 2025-10-26 18:52:21.423000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1432078031048020028
+Timestamp: 2025-10-26 18:46:49.325000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432077023781584978
+Timestamp: 2025-10-26 18:42:49.174000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432075961565970552
+Timestamp: 2025-10-26 18:38:35.922000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432075514104779032
+Timestamp: 2025-10-26 18:36:49.239000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432072492096159826
+Timestamp: 2025-10-26 18:24:48.736000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432070477534461992
+Timestamp: 2025-10-26 18:16:48.427000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432069469965910052
+Timestamp: 2025-10-26 18:12:48.204000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432067959723003905
+Timestamp: 2025-10-26 18:06:48.134000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432064938305912962
+Timestamp: 2025-10-26 17:54:47.772000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432062925513822411
+Timestamp: 2025-10-26 17:46:47.885000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432061918759227585
+Timestamp: 2025-10-26 17:42:47.856000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432059288280629429
+Timestamp: 2025-10-26 17:32:20.701000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432057385177972736
+Timestamp: 2025-10-26 17:24:46.966000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432057005790462073
+Timestamp: 2025-10-26 17:23:16.513000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 190 perc
+
+==============================
+ID: 1432055622295355464
+Timestamp: 2025-10-26 17:17:46.662000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432055468259414199
+Timestamp: 2025-10-26 17:17:09.937000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1432055371450679499
+Timestamp: 2025-10-26 17:16:46.856000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432055370360164425
+Timestamp: 2025-10-26 17:16:46.596000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432055138578858118
+Timestamp: 2025-10-26 17:15:51.335000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432054821099405494
+Timestamp: 2025-10-26 17:14:35.642000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 29 perc
+
+==============================
+ID: 1432054363773210668
+Timestamp: 2025-10-26 17:12:46.607000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432054363148521556
+Timestamp: 2025-10-26 17:12:46.458000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432049832222134407
+Timestamp: 2025-10-26 16:54:46.201000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432048068546789376
+Timestamp: 2025-10-26 16:47:45.708000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432047817861632063
+Timestamp: 2025-10-26 16:46:45.940000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1432047511056683009
+Timestamp: 2025-10-26 16:45:32.792000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432046810687344771
+Timestamp: 2025-10-26 16:42:45.811000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432046809953472532
+Timestamp: 2025-10-26 16:42:45.636000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432042278460850248
+Timestamp: 2025-10-26 16:24:45.244000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432040515897000129
+Timestamp: 2025-10-26 16:17:45.016000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432040292286201986
+Timestamp: 2025-10-26 16:16:51.703000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Rick Deckard (attys) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1432039255768699001
+Timestamp: 2025-10-26 16:12:44.578000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató
+Fizetés összege: $600
+
+==============================
+ID: 1432039255760441406
+Timestamp: 2025-10-26 16:12:44.576000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432037754346274819
+Timestamp: 2025-10-26 16:06:46.611000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 142 perc
+
+==============================
+ID: 1432034723974217869
+Timestamp: 2025-10-26 15:54:44.114000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432032961737527411
+Timestamp: 2025-10-26 15:47:43.964000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1432032840970797228
+Timestamp: 2025-10-26 15:47:15.171000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) felvette a szolgálatot**
+Description:
+Mentő - Igazgató
+
+==============================
+ID: 1432032206036926616
+Timestamp: 2025-10-26 15:44:43.791000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432031702858858648
+Timestamp: 2025-10-26 15:42:43.824000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432028094994059505
+Timestamp: 2025-10-26 15:28:23.642000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1432027170468921359
+Timestamp: 2025-10-26 15:24:43.218000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432024653458702388
+Timestamp: 2025-10-26 15:14:43.116000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432024148934267042
+Timestamp: 2025-10-26 15:12:42.828000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432019617663946872
+Timestamp: 2025-10-26 14:54:42.489000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1432017099789959368
+Timestamp: 2025-10-26 14:44:42.181000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432016596322488351
+Timestamp: 2025-10-26 14:42:42.145000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1432012865073844374
+Timestamp: 2025-10-26 14:27:52.546000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 10 perc
+
+==============================
+ID: 1432012210867146793
+Timestamp: 2025-10-26 14:25:16.571000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1432009548188880916
+Timestamp: 2025-10-26 14:14:41.739000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1432009285474320637
+Timestamp: 2025-10-26 14:13:39.103000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1432007210430496940
+Timestamp: 2025-10-26 14:05:24.374000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) leadta a szolgálatot**
+Description:
+Mentő - Igazgató
+Szolgálatban töltött idő: 4 perc
+
+==============================
+ID: 1432007093459746846
+Timestamp: 2025-10-26 14:04:56.486000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Loretta Wilson (HPatty) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 4 perc
+
+==============================
+ID: 1432006251763728636
+Timestamp: 2025-10-26 14:01:35.810000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Loretta Wilson (HPatty) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1432006210609217598
+Timestamp: 2025-10-26 14:01:25.998000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hajas Ricsi (ricsihajas3) felvette a szolgálatot**
+Description:
+Mentő - Igazgató
+
+==============================
+ID: 1432002161834721451
+Timestamp: 2025-10-26 13:45:20.695000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1431988484851105933
+Timestamp: 2025-10-26 12:50:59.848000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 237 perc
+
+==============================
+ID: 1431988385915994264
+Timestamp: 2025-10-26 12:50:36.260000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431985507772141729
+Timestamp: 2025-10-26 12:39:10.057000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431985337441452165
+Timestamp: 2025-10-26 12:38:29.447000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1431985226136948879
+Timestamp: 2025-10-26 12:38:02.910000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 86 perc
+
+==============================
+ID: 1431980833304215592
+Timestamp: 2025-10-26 12:20:35.577000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431979595497865276
+Timestamp: 2025-10-26 12:15:40.461000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 59 perc
+
+==============================
+ID: 1431978818909900963
+Timestamp: 2025-10-26 12:12:35.308000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431978647073325099
+Timestamp: 2025-10-26 12:11:54.339000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431978567427821599
+Timestamp: 2025-10-26 12:11:35.350000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431977812012826634
+Timestamp: 2025-10-26 12:08:35.245000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Alexander Aiden (akos25) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431976790036975717
+Timestamp: 2025-10-26 12:04:31.587000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 29 perc
+
+==============================
+ID: 1431973279534678097
+Timestamp: 2025-10-26 11:50:34.618000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431972272817573889
+Timestamp: 2025-10-26 11:46:34.598000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431971014366986424
+Timestamp: 2025-10-26 11:41:34.560000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431969458339188776
+Timestamp: 2025-10-26 11:35:23.574000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431965726176055398
+Timestamp: 2025-10-26 11:20:33.757000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431964831539400816
+Timestamp: 2025-10-26 11:17:00.459000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1431963670665232386
+Timestamp: 2025-10-26 11:12:23.685000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1431958257295032331
+Timestamp: 2025-10-26 10:50:53.037000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1431955655056556033
+Timestamp: 2025-10-26 10:40:32.615000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431948182354399384
+Timestamp: 2025-10-26 10:10:50.984000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1431941557140848671
+Timestamp: 2025-10-26 09:44:31.410000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431934004185272352
+Timestamp: 2025-10-26 09:14:30.645000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1431931839890591744
+Timestamp: 2025-10-26 09:05:54.637000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431931732571193366
+Timestamp: 2025-10-26 09:05:29.050000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1431926632305922169
+Timestamp: 2025-10-26 08:45:13.052000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1431926620155019385
+Timestamp: 2025-10-26 08:45:10.155000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431926222459506829
+Timestamp: 2025-10-26 08:43:35.337000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1431765771033509898
+Timestamp: 2025-10-25 22:06:00.736000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 98 perc
+
+==============================
+ID: 1431765702112710716
+Timestamp: 2025-10-25 22:05:44.304000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 98 perc
+
+==============================
+ID: 1431763630864465980
+Timestamp: 2025-10-25 21:57:30.480000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431763630231257149
+Timestamp: 2025-10-25 21:57:30.329000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431756076663181312
+Timestamp: 2025-10-25 21:27:29.418000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431756076159598663
+Timestamp: 2025-10-25 21:27:29.298000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431755929766072501
+Timestamp: 2025-10-25 21:26:54.395000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 56 perc
+
+==============================
+ID: 1431749278115692785
+Timestamp: 2025-10-25 21:00:28.518000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431748523568664596
+Timestamp: 2025-10-25 20:57:28.620000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431748522809495784
+Timestamp: 2025-10-25 20:57:28.439000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431741939283394610
+Timestamp: 2025-10-25 20:31:18.804000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431741202352570408
+Timestamp: 2025-10-25 20:28:23.106000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1431741192533573772
+Timestamp: 2025-10-25 20:28:20.765000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1431724992420384940
+Timestamp: 2025-10-25 19:23:58.357000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431724827705741465
+Timestamp: 2025-10-25 19:23:19.086000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1431724219284193410
+Timestamp: 2025-10-25 19:20:54.027000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431724209691951124
+Timestamp: 2025-10-25 19:20:51.740000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431723958591426662
+Timestamp: 2025-10-25 19:19:51.873000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1431723951888797788
+Timestamp: 2025-10-25 19:19:50.275000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1431714968088084541
+Timestamp: 2025-10-25 18:44:08.370000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) leadta a szolgálatot**
+Description:
+Mentő - Osztályvezető
+Szolgálatban töltött idő: 10 perc
+
+==============================
+ID: 1431712449496748134
+Timestamp: 2025-10-25 18:34:07.891000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hero Nagata (Kolbi) felvette a szolgálatot**
+Description:
+Mentő - Osztályvezető
+
+==============================
+ID: 1431711886423883957
+Timestamp: 2025-10-25 18:31:53.644000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 1 perc
+
+==============================
+ID: 1431711750864113796
+Timestamp: 2025-10-25 18:31:21.324000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1431711661118718093
+Timestamp: 2025-10-25 18:30:59.927000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 200 perc
+
+==============================
+ID: 1431711141192532110
+Timestamp: 2025-10-25 18:28:55.967000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+
+==============================
+ID: 1431703708013695065
+Timestamp: 2025-10-25 17:59:23.759000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Alexander Aiden (akos25) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431703379708481536
+Timestamp: 2025-10-25 17:58:05.485000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) leadta a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+Szolgálatban töltött idő: 60 perc
+
+==============================
+ID: 1431703204177117214
+Timestamp: 2025-10-25 17:57:23.635000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1431702705788817458
+Timestamp: 2025-10-25 17:55:24.810000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 78 perc
+
+==============================
+ID: 1431702701825196218
+Timestamp: 2025-10-25 17:55:23.865000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431702552612831453
+Timestamp: 2025-10-25 17:54:48.290000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) leadta a szolgálatot**
+Description:
+Mentő - Gyakornok
+Szolgálatban töltött idő: 81 perc
+
+==============================
+ID: 1431699561054998560
+Timestamp: 2025-10-25 17:42:55.047000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) leadta a szolgálatot**
+Description:
+Mentő - Mentőtiszt
+Szolgálatban töltött idő: 166 perc
+
+==============================
+ID: 1431699549822521375
+Timestamp: 2025-10-25 17:42:52.369000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 60 perc
+
+==============================
+ID: 1431699429630545950
+Timestamp: 2025-10-25 17:42:23.713000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431698169154240512
+Timestamp: 2025-10-25 17:37:23.192000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431697161510322226
+Timestamp: 2025-10-25 17:33:22.951000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Gyakornok
+Fizetés összege: $400
+
+==============================
+ID: 1431696154223186111
+Timestamp: 2025-10-25 17:29:22.795000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Alexander Aiden (akos25) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431695650722021468
+Timestamp: 2025-10-25 17:27:22.751000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Igazgató-helyettes
+Fizetés összege: $590
+
+==============================
+ID: 1431695398984093758
+Timestamp: 2025-10-25 17:26:22.732000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431695148764500079
+Timestamp: 2025-10-25 17:25:23.075000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431694598463291543
+Timestamp: 2025-10-25 17:23:11.873000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 23 perc
+
+==============================
+ID: 1431691874233483365
+Timestamp: 2025-10-25 17:12:22.366000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431690979928182845
+Timestamp: 2025-10-25 17:08:49.147000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 133 perc
+
+==============================
+ID: 1431690620858011822
+Timestamp: 2025-10-25 17:07:23.538000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431689608617529538
+Timestamp: 2025-10-25 17:03:22.201000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Gyakornok
+Fizetés összege: $400
+
+==============================
+ID: 1431688692787052544
+Timestamp: 2025-10-25 16:59:43.850000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431688178040963293
+Timestamp: 2025-10-25 16:57:41.125000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Ráduly Zalán (radulyzalan13) felvette a szolgálatot**
+Description:
+Mentő - Igazgató-helyettes
+
+==============================
+ID: 1431687846305206282
+Timestamp: 2025-10-25 16:56:22.033000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431687594428731522
+Timestamp: 2025-10-25 16:55:21.981000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431687594030268448
+Timestamp: 2025-10-25 16:55:21.886000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431687578343571517
+Timestamp: 2025-10-25 16:55:18.146000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) leadta a szolgálatot**
+Description:
+Mentő - Ápoló
+Szolgálatban töltött idő: 94 perc
+
+==============================
+ID: 1431686335323967721
+Timestamp: 2025-10-25 16:50:21.787000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431684386197209209
+Timestamp: 2025-10-25 16:42:37.079000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Rumli Freeman (rubenseres48) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431683175884525648
+Timestamp: 2025-10-25 16:37:48.518000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Jr. Extebberia Santos (Gery) felvette a szolgálatot**
+Description:
+Mentő - Ápoló
+
+==============================
+ID: 1431682114004324424
+Timestamp: 2025-10-25 16:33:35.346000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dorka Grey (Dorkaa) felvette a szolgálatot**
+Description:
+Mentő - Gyakornok
+
+==============================
+ID: 1431680292858368212
+Timestamp: 2025-10-25 16:26:21.151000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431680041120567407
+Timestamp: 2025-10-25 16:25:21.132000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Philadelphia De Blanca (X-ray2061) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Rezidens
+Fizetés összege: $500
+
+==============================
+ID: 1431680040680034375
+Timestamp: 2025-10-25 16:25:21.027000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431678782900535507
+Timestamp: 2025-10-25 16:20:21.149000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Farkas Imre Béla (27Erikinho) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Ápoló
+Fizetés összege: $435
+
+==============================
+ID: 1431672739722166322
+Timestamp: 2025-10-25 15:56:20.343000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Laszlo Lakatos (regosmark239) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480
+
+==============================
+ID: 1431672487636238459
+Timestamp: 2025-10-25 15:55:20.241000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Bryce Person (liffikemadrfakr) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Mentőtiszt
+Fizetés összege: $480

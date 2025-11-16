@@ -1,0 +1,111 @@
+
+==============================
+ID: 1433834846580506816
+Timestamp: 2025-10-31 15:07:46.788000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 66 perc
+
+==============================
+ID: 1433833290275749958
+Timestamp: 2025-10-31 15:01:35.736000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433830946452537424
+Timestamp: 2025-10-31 14:52:16.925000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) leadta a szolgálatot**
+Description:
+Mentő - Rezidens
+Szolgálatban töltött idő: 2 perc
+
+==============================
+ID: 1433830346469675009
+Timestamp: 2025-10-31 14:49:53.878000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Bryce Person (liffikemadrfakr) felvette a szolgálatot**
+Description:
+Mentő - Rezidens
+
+==============================
+ID: 1433825736787099800
+Timestamp: 2025-10-31 14:31:34.844000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433818309018783927
+Timestamp: 2025-10-31 14:02:03.926000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos
+
+==============================
+ID: 1433802556630630430
+Timestamp: 2025-10-31 12:59:28.264000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) leadta a szolgálatot**
+Description:
+Mentő - Orvos
+Szolgálatban töltött idő: 71 perc
+
+==============================
+ID: 1433799645791780864
+Timestamp: 2025-10-31 12:47:54.266000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433792092953645087
+Timestamp: 2025-10-31 12:17:53.529000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) fizetést kapott**
+Description:
+Job: Mentő
+Rang: Orvos
+Fizetés összege: $520
+
+==============================
+ID: 1433784667106050048
+Timestamp: 2025-10-31 11:48:23.069000+00:00
+Author: NW duty#0000 (ID=1349829505149309010)
+Content: ''
+--- Embed #1 ---
+Title: **Dr. Hans Heinkel Hesserschmit (Barnus2009) felvette a szolgálatot**
+Description:
+Mentő - Orvos

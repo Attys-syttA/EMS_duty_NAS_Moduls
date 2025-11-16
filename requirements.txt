@@ -1,0 +1,6 @@
+pytest
+discord.py
+python-dotenv
+requests
+pytz
+watchdog
