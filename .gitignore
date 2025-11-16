@@ -1,4 +1,6 @@
 ## Core latex/pdflatex auxiliary files:
+.env
+*.json
 *.aux
 *.lof
 *.log
